@@ -1,6 +1,6 @@
 {
   "name": "liquid-carrot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Liquid Carrot's Node.js API Client",
   "main": "index.js",
   "scripts": {
