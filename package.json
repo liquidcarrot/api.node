@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/liquidcarrot/api.node/issues"
   },
-  "homepage": "https://github.com/liquidcarrot/api.node#readme"
+  "homepage": "https://github.com/liquidcarrot/api.node#readme",
+  "dependencies": {
+    "restify-clients": "^2.6.4"
+  }
 }
