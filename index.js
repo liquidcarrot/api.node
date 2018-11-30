@@ -48,4 +48,6 @@ module.exports = function(API_KEY, HOST) {
       callback(error, object)
     })
   }
+  
+  return carrot
 }
