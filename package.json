@@ -22,15 +22,12 @@
     "DL"
   ],
   "contributors": [
-    "Luis Carbonell <luis@liquidcarrot.io>",
-    "Christian Echevarria <chris@liquidcarrot.io>"
+    "Luis Carbonell <luiscarbonell5683@gmail.com>",
+    "Christian Echevarria <christian.george.echevarria@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/liquidcarrot/api.node/issues"
   },
-  "homepage": "https://github.com/liquidcarrot/api.node#readme",
-  "dependencies": {
-    "restify-clients": "^2.6.4"
-  }
+  "homepage": "https://github.com/liquidcarrot/api.node#readme"
 }
