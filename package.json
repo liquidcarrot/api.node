@@ -1,0 +1,36 @@
+{
+  "name": "liquid-carrot",
+  "version": "1.0.0",
+  "description": "Liquid Carrot's Node.js API Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquidcarrot/api.node.git"
+  },
+  "keywords": [
+    "ai",
+    "liquid carrot",
+    "api",
+    "client",
+    "deep learning",
+    "neural networks",
+    "NN",
+    "ML",
+    "DL"
+  ],
+  "contributors": [
+    "Luis Carbonell <luis@liquidcarrot.io>",
+    "Christian Echevarria <chris@liquidcarrot.io>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liquidcarrot/api.node/issues"
+  },
+  "homepage": "https://github.com/liquidcarrot/api.node#readme",
+  "dependencies": {
+    "restify-clients": "^2.6.4"
+  }
+}
