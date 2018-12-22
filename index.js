@@ -4,7 +4,7 @@ let api = require('restify-clients')
 
 module.exports = function(API_KEY, HOST) {
   let client = api.createJsonClient({
-    url: HOST || "https://api.liquidcarrot.io",
+    url: HOST || "https://liquidcarrot.io",
     headers: {
       "Authorization": "Bearer " + API_KEY
     }
